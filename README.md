@@ -21,6 +21,7 @@
     <img src="https://raw.githubusercontent.com/abhi1693/abhi1693/main/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>  
 </p>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 📫 How to reach me? 
 
